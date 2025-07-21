@@ -1,7 +1,7 @@
 # 🎮 C# Guessing Game – Build Your Own!
 
 ## 🧠 Overview
-Welcome to the **Guessing Game Project**! In this project, you'll build a fun console-based guessing game using **C#** and **Visual Studio**. This activity is designed to help you understand core programming concepts like **arrays**, **loops**, **conditionals**, and **user input**.
+Welcome to the **Guessing Game Project**! In this project, you'll build a fun guessing game using **C#** using **Visual Studio** (You are not restricted console app- so make your app look nice). This activity is designed to help you understand core programming concepts like **arrays**, **loops**, **conditionals**, and **user input**. 
 
 ---
 
@@ -16,20 +16,10 @@ By the end of this activity, you will be able to:
 - Store **top scores** using **arrays or lists**
 - Work with **DateTime** to track performance
 
----
-
-## 🏗️ Getting Started
-
-1. Open **Visual Studio**
-2. Create a **new Console App (.NET Core or .NET Framework)**
-3. Save the project as `GuessingGame`
-4. Replace the default `Program.cs` with your custom game logic
-
----
 
 ## 🚀 Project Features
 
-Below are the features your game should include, along with the concepts they are designed to teach:
+Below are the features your game should include (Choose any 3), along with the concepts they are designed to teach:
 
 | 🌟 Feature        | 💡 Learning Concept     | 🛠️ Implementation Idea                                           |
 |------------------|-------------------------|------------------------------------------------------------------|
@@ -84,6 +74,9 @@ class Program
         TimeSpan duration = DateTime.Now - startTime;
         Console.WriteLine($"Game Over. Your score: {score}. Time: {duration.Seconds} seconds.");
 
-        // Placeholder for leaderboard logic
+        // Add the rest of your features
     }
 }
+
+## Once completed- submit your code to the following GitHub Repo Link: https://classroom.github.com/a/J-524X85
+## There after submit your link onto Arc under Ice Task 1
