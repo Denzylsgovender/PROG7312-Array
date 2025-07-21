@@ -1,7 +1,7 @@
 # 🎮 C# Guessing Game – Build Your Own!
 
 ## 🧠 Overview
-Welcome to the **Guessing Game Project**! In this project, you'll build a fun guessing game using **C#** using **Visual Studio** (You are not restricted console app- so make your app look nice). This activity is designed to help you understand core programming concepts like **arrays**, **loops**, **conditionals**, and **user input**. 
+Welcome to the **Guessing Game Project**! In this project, you'll build a fun guessing game using **C#** in **Visual Studio**. *(You are not restricted to a console app—so make your app look nice!)* This activity is designed to help you understand core programming concepts like **arrays**, **loops**, **conditionals**, and **user input**. 
 
 ---
 
@@ -9,17 +9,18 @@ Welcome to the **Guessing Game Project**! In this project, you'll build a fun gu
 
 By the end of this activity, you will be able to:
 
-- Use **1D and 2D arrays** to store and retrieve data
-- Apply **loops** and **conditionals** to control program flow
-- Work with **random values** and **user input**
-- Use **variables** to track scores and limits
-- Store **top scores** using **arrays or lists**
-- Work with **DateTime** to track performance
+- Use **1D and 2D arrays** to store and retrieve data  
+- Apply **loops** and **conditionals** to control program flow  
+- Work with **random values** and **user input**  
+- Use **variables** to track scores and limits  
+- Store **top scores** using **arrays or lists**  
+- Work with **DateTime** to track performance  
 
+---
 
 ## 🚀 Project Features
 
-Below are the features your game should include (Choose any 3), along with the concepts they are designed to teach:
+Below are the features your game should include (**Choose any 3**), along with the concepts they are designed to teach:
 
 | 🌟 Feature        | 💡 Learning Concept     | 🛠️ Implementation Idea                                           |
 |------------------|-------------------------|------------------------------------------------------------------|
@@ -30,7 +31,16 @@ Below are the features your game should include (Choose any 3), along with the c
 | **Leaderboard**  | Arrays or Lists         | Store top 5 scores and display them after each round            |
 
 ---
+## Submission Instructions
+Complete your guessing game using Visual Studio.
 
+Make sure you implement at least 3 features from the project list above.
+
+Submit your code to the following GitHub Classroom Repo:
+🔗 https://classroom.github.com/a/J-524X85
+
+Then submit your GitHub link to Arc under ICE Task 1.
+---
 ## 🧩 Sample Starter Code
 
 Here’s a simple base to help you get started:
@@ -77,6 +87,3 @@ class Program
         // Add the rest of your features
     }
 }
-
-## Once completed- submit your code to the following GitHub Repo Link: https://classroom.github.com/a/J-524X85
-## There after submit your link onto Arc under Ice Task 1
